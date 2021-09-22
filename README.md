@@ -1,3 +1,4 @@
 # Weather-Application
-Android Application shows current weather of cities.
+Android Application using Java, Android SDK, API.
+shows current weather of cities.
 fetching API from openweathermap in JSON format.
